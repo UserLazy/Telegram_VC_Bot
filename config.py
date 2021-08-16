@@ -1,4 +1,4 @@
-HEROKU = True  # NOTE Make it false if you're not deploying on heroku.
+HEROKU = False  # NOTE Make it false if you're not deploying on heroku.
 
 # NOTE these values are for heroku & Docker.
 if HEROKU:
