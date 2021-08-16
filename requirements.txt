@@ -1,5 +1,5 @@
 Pillow
-pytgcalls==0.5.5
+py-tgcalls==0.5.5
 ffmpeg-python
 python-arq
 Pyrogram
